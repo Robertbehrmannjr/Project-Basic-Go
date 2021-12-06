@@ -1,0 +1,1 @@
+Projeto em que realizo as atividades propostas no Beecrowd em  um pacote secundário, e chamo suas respostas e descrição das perguntas no pacote main.
